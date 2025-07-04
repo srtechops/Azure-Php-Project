@@ -7,7 +7,7 @@
 
 <?php
 echo '<h1 style="color:#2e8b57; text-align:center; margin-top: 100px;">
-        Welcome to <span style="color:#ff4500;">SRTECHOPS DevOps Training V2</span>!
+        Welcome to <span style="color:#8F00FF;">SRTECHOPS DevOps Training & Azure Cloud Training V3</span>!
       </h1>';
 ?>
 
